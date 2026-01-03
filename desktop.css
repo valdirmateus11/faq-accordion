@@ -1,0 +1,12 @@
+@media screen and (min-width: 750px) {
+    body{
+        background-image: url(assets/images/background-pattern-desktop.svg);
+    }
+    main{
+        width: 50%;
+    }
+    .question section{
+        width: 100%
+    }
+    
+}

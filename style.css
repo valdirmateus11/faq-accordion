@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: hsl(275, 100%, 97%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    background-image: url(assets/images/background-pattern-mobile.svg);
+}
+main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    padding: 32px;
+    border-radius: 13px;
+}
+img{
+    cursor: pointer;
+}
+aside{
+    display: flex;
+}
+aside img{
+    width: 16px;
+}
+h1{
+    font-size: 25px;
+}
+.question{
+    display: flex;
+    color:hsl(292, 42%, 14%);
+    font-weight: 900;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+.question section{
+    width: 85%
+}
+p{
+    margin-bottom: 15px;
+    color:hsl(292, 16%, 49%);
+}
+.oculto{
+    display: none; 
+}
