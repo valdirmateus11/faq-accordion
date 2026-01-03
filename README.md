@@ -13,7 +13,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da Solução: [Clica aqui para ver o código](https://github.com/o-teu-utilizador/faq-accordion)
+- URL da Solução: [Clica aqui para ver o código]((https://github.com/valdirmateus11/faq-accordion))
 - URL do Site Live: [Clica aqui para ver o site online](https://o-teu-utilizador.github.io/faq-accordion)
 
 ### Tecnologias utilizadas
